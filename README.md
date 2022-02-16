@@ -1,5 +1,4 @@
 # libft_42
 libft_0try_125
 
-https://jyoonit.tistory.com/
-설명
+설명 : https://jyoonit.tistory.com/
